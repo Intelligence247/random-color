@@ -13,9 +13,7 @@ body {
 }
 
 h1 {
-    border: 1px solid #6c757d;
     color: #6c757d;
-    border-radius: 5px;
     padding: 0.5rem 1rem;
     font-size: large;
     cursor: pointer;
