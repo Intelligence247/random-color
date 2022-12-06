@@ -9,6 +9,7 @@ Clone or download this repository and run with a local server of open `index.htm
 ## Tech/framework used
 - Html
 - Css
+- JavaScript
 ## Demo
 [Go Live](https://eclectic-maamoul-1c3f34.netlify.app)
 ![screenshot](./media/ss.png)
